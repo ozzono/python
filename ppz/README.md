@@ -1,0 +1,2 @@
+## Python For Zombies (Python Para Zumbis)
+> This folder contains the code snippets with exercises from the [Python For Zombies](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc) tutorial playlist
